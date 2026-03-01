@@ -27,3 +27,4 @@ Spacebar: Sustain
 Arrow Keys: Octave Shift  
 OUTPUT
 <img width="1378" height="696" alt="image" src="https://github.com/user-attachments/assets/d0ed361b-825f-442c-8460-19e16b7d1020" />
+
